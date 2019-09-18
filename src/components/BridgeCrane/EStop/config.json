@@ -1,0 +1,173 @@
+[   
+    { 
+        "dataIndex":1, 
+        "name":"",
+        "desc": "Primary Trolley Platform Left" ,
+        "marker":{ "left": "20.7%", "top": "43.2%"},
+        "parentKey": "Primary Trolley Platform"
+    },
+    { 
+        "dataIndex":2, 
+        "name":"",
+        "desc": "Primary Trolley PlatformRight" ,
+        "marker":{ "left": "22.1%", "top": "46.2%"},
+        "parentKey": "Primary Trolley Platform"
+    },
+    { 
+        "dataIndex":3, 
+        "name":"",
+        "desc": "Secondary Trolley Platform Left" ,
+        "marker":{ "left": "17.2%", "top": "70.2%"},
+        "parentKey": "Secondary Trolley Platform"
+    },
+    { 
+        "dataIndex":4, 
+        "name":"",
+        "desc": "Secondary Trolley Platform Right" ,
+        "marker":{ "left": "23.1%", "top": "81.5%"},
+        "parentKey": "Secondary Trolley Platform"
+    },
+    { 
+        "dataIndex":5, 
+        "name":"",
+        "desc": "E-room Front" ,
+        "marker":{ "left": "40.5%", "top": "26.9%"},
+        "parentKey": "E-room"
+    },
+    { 
+        "dataIndex":6, 
+        "name":"",
+        "desc": "E-room Rear" ,
+        "marker":{ "left": "34.2%", "top": "32.3%"},
+        "parentKey": "E-room"
+    },
+    { 
+        "dataIndex":7, 
+        "name":"",
+        "desc": "E-room to M-room" ,
+        "marker":{ "left": "37.9%", "top": "31.8%"},
+        "parentKey": "E-room"
+    },
+    { 
+        "dataIndex":8, 
+        "name":"",
+        "desc": "E-room to CMS Room" ,
+        "marker":{ "left": "40.2%", "top": "29.9%"},
+        "parentKey": "E-room"
+    },
+    { 
+        "dataIndex":9, 
+        "name":"",
+        "desc": "M-room Front" ,
+        "marker":{ "left": "43.1%", "top": "30.6%"},
+        "parentKey": "M-room"
+    },
+    { 
+        "dataIndex":10, 
+        "name":"",
+        "desc": "M-room Rear" ,
+        "marker":{ "left": "36.3%", "top": "35.6%"},
+        "parentKey": "M-room"
+    },
+    { 
+        "dataIndex":11, 
+        "name":"",
+        "desc": "M-room Right" ,
+        "marker":{ "left": "45.3%", "top": "35.6%"},
+        "parentKey": "M-room"
+    },
+    { 
+        "dataIndex":12, 
+        "name":"",
+        "desc": "Gantry-Bogie Middle WS" ,
+        "marker":{ "left": "52.3%", "top": "72.3%"},
+        "parentKey": "Gantry-Bogie"
+    },
+    { 
+        "dataIndex":13, 
+        "name":"",
+        "desc": "Gantry-Bogie Middle LS" ,
+        "marker":{ "left": "33.3%", "top": "82.3%"},
+        "parentKey": "Gantry-Bogie"
+    },
+    { 
+        "dataIndex":14, 
+        "name":"",
+        "desc": "Gantry-Bogie WS Left" ,
+        "marker":{ "left": "46.2%", "top": "65.5%"},
+        "parentKey": "Gantry-Bogie"
+    },
+    { 
+        "dataIndex":15, 
+        "name":"",
+        "desc": "Gantry-Bogie WS Right" ,
+        "marker":{ "left": "55.3%", "top": "78.1%"},
+        "parentKey": "Gantry-Bogie"
+    },
+    { 
+        "dataIndex":16, 
+        "name":"",
+        "desc": "Gantry-Bogie LS Left" ,
+        "marker":{ "left": "27.8%", "top": "73.5%"},
+        "parentKey": "Gantry-Bogie"
+    },
+    { 
+        "dataIndex":17, 
+        "name":"",
+        "desc": "Gantry-Bogie LS Right" ,
+        "marker":{ "left": "36.8%", "top": "86.5%"},
+        "parentKey": "Gantry-Bogie"
+    },
+    { 
+        "dataIndex":18, 
+        "name":"",
+        "desc": "Boom Mid-Sction" ,
+        "marker":{ "left": "70.2%", "top": "19.1%"},
+        "parentKey": "Boom"
+    },
+    { 
+        "dataIndex":19, 
+        "name":"",
+        "desc": "Boom End" ,
+        "marker":{ "left": "90.6%", "top": "10.2%"},
+        "parentKey": "Boom"
+    },
+    { 
+        "dataIndex":20, 
+        "name":"",
+        "desc": "Girder End", 
+        "marker":{ "left": "0.90%", "top": "55.3%"}
+    },
+    { 
+        "dataIndex":21, 
+        "name":"",
+        "desc": "A-Frame", 
+        "marker":{ "left": "53.9%", "top": "10.6%"}
+    },
+    { 
+        "dataIndex":22, 
+        "name":"",
+        "desc": "Left Lashing Hut" ,
+        "marker":{ "left": "32.9%", "top": "67.6%"},
+        "parentKey": "Lashing Hut"
+    },
+    { 
+        "dataIndex":23, 
+        "name":"",
+        "desc": "Right Lashing Hut",
+        "marker":{ "left": "41.9%", "top": "77.6%"},
+        "parentKey": "Lashing Hut" 
+    },
+    { 
+        "dataIndex":24, 
+        "name":"",
+        "desc": "Computer Room", 
+        "marker":{ "left": "42.9%", "top": "27.6%"}
+    },
+    { 
+        "dataIndex":25, 
+        "name":"",
+        "desc": "Near MV Slipring Box", 
+        "marker":{ "left": "40.9%", "top": "53.8%"}
+    }
+  ]

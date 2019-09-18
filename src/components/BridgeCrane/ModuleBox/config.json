@@ -1,0 +1,116 @@
+[
+    {
+        "dataIndex": "+02S01",
+        "name": "+02S01",
+        "desc": "MH. OPER. STA",
+        "marker":{ "left": "40.2%", "top": "32.3%"}
+    },
+    {
+        "dataIndex":"+03S15",
+        "name": "+03S15",
+        "desc": "A-FRAME GS CCTV CONTROL STATION",
+        "marker":{ "left": "53.5%", "top": "11.6%"}
+    },
+    {
+        "dataIndex":"+04S01",
+        "name": "+04S01",
+        "desc": "BOOM TIP LOCAL CONTROL STATION",
+        "marker":{ "left": "92.9%", "top": "10.7%"}
+    },
+    {
+        "dataIndex": "+05S01",
+        "name": "+05S01",
+        "desc": "BACKREACH TLS LOCAL CONTROL STATION",
+        "marker":{ "left": "1.6%", "top": "54.1%"}
+    },
+    {
+        "dataIndex": "+05S15",
+        "name": "+05S15",
+        "desc": "UPPER BACKREACH GS CCTV CONTROL STATION",
+        "marker":{ "left": "11.8%", "top": "56.7%"}
+    },
+    {
+        "dataIndex": "+06S01",
+        "name": "+06S01",
+        "desc": " LEFT PORTAL BEAM I/O STATION ",
+        "marker":{ "left": "32.2%", "top": "61.1%"}
+    },
+    {
+        "dataIndex": "+06S02",
+        "name": "+06S02",
+        "desc": "RIGHT PORTAL BEAM I/O STATION",
+        "marker":{ "left": "41.9%", "top": "73.9%"}
+    },
+    {
+        "dataIndex": "+06S13",
+        "name": "+06S13",
+        "desc": "LEFT PORTAL BEAM APS & CCTV CONTROL BOX",
+        "marker":{ "left": "24.6%", "top": "65.9%"}
+    },
+    {
+        "dataIndex": "+06S15",
+        "name": "+06S15",
+        "desc": "LOWER BACKREACH GS CCTV CONTROL STATION",
+        "marker":{ "left": "10.6%", "top": "72.9%"}
+    },
+    {
+        "dataIndex": "+06S21",
+        "name": "+06S21",
+        "desc": "LEFT PORTAL BEAM OCR CONTROL BOX",
+        "marker":{ "left": "41.1%", "top": "56.8%"}
+    },
+    {
+        "dataIndex": "+06S22",
+        "name": "+06S22",
+        "desc": "RIGHT PORTAL BEAM OCR CONTROL BOX",
+        "marker":{ "left": "47.9%", "top": "70.9%"}
+    },
+    {
+        "dataIndex": "+07S01",
+        "name": "+07S01",
+        "desc": "G. LS. OPER. STA.",
+        "marker":{ "left": "33.9%", "top": "81.5%"}
+    },
+    {
+        "dataIndex": "+08S01",
+        "name": "+08S01",
+        "desc": "G. WS. OPER. STA.1",
+        "marker":{ "left": "50.8%", "top": "72.1%"}
+    },
+    {
+        "dataIndex": "+08S02",
+        "name": "+08S02",
+        "desc": "G. WS. OPER. STA.2",
+        "marker":{ "left": "53.3%", "top": "72.1%"}
+    },
+    {
+        "dataIndex": "+09S01",
+        "name": "+09S01",
+        "desc": "LOCAL CONTROL ROOM LOCAL CONTROL STATION",
+        "marker":{ "left": "33.4%", "top": "70.1%"}
+    },
+    {
+        "dataIndex": "+13S01",
+        "name": "+13S01",
+        "desc": "PRIMARY TROLLEY FRAME OPERATION STATION",
+        "marker":{ "left": "22.1%", "top": "44.4%"}
+    },
+    {
+        "dataIndex": "+14S01",
+        "name": "+14S01",
+        "desc": "BOOM CABIN OPER. STA.",
+        "marker":{ "left": "56.1%", "top": "30.4%"}
+    },
+    {
+        "dataIndex": "+16S01",
+        "name": "+16S01",
+        "desc": "LASHING PLATFORM I/O STATION",
+        "marker":{ "left": "36.5%", "top": "72.9%"}
+    },
+    {
+        "dataIndex": "+18S01",
+        "name": "+18S01",
+        "desc": "SECONDARY TROLLEY MACHINERY HOUSE CONTROL STATION",
+        "marker":{ "left": "18.9%", "top": "75.9%"}
+    }
+]

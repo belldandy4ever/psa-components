@@ -1,0 +1,116 @@
+[
+    {
+        "dataIndex": "+07S11",
+        "name":"Box 1-1",
+        "desc": "CENTER LANDSIDE GANTRY GATE REQUEST BOX",
+        "marker":{ "left": "32.9%", "top": "81.7%"}
+    },
+    {
+        "dataIndex":"+07S12",
+        "name": "Box 1-2",
+        "desc": "RHS LANDSIDE GANTRY GATE REQUEST BOX",
+        "marker":{ "left": "40.9%", "top": "86.7%"}
+    },
+    {
+        "dataIndex":"+07S13",
+        "name": "Box 2",
+        "desc": "LHS LANDSIDE GANTRY LEG GATE REQUEST BOX",
+        "marker":{ "left": "27.8%", "top": "71.7%"}
+    },
+    {
+        "dataIndex": "+08S11",
+        "name": "Box 3-1",
+        "desc": "CENTER SEASIDE GANTRY GATE REQUEST BOX",
+        "marker":{ "left": "50.8%", "top": "71.9%"}
+    },
+    {
+        "dataIndex": "+08S12",
+        "name": "Box 3-2",
+        "desc": "RHS SEASIDE GANTRY GATE REQUEST BOX",
+        "marker":{ "left": "53.8%", "top": "75.9%"}
+    },
+    {
+        "dataIndex": "+08S13",
+        "name": "Box 4",
+        "desc": "LHS SEASIDE GANTRY LEG GATE REQUEST BOX ",
+        "marker":{ "left": "46.1%", "top": "64.9%"}
+    },
+    {
+        "dataIndex": "+06S11",
+        "name": "Box 5",
+        "desc": "LHS PORTAL BEAM BACKWARD STOP GATE REQUEST BOX",
+        "marker":{ "left": "10.9%", "top": "70.9%"}
+    },
+    {
+        "dataIndex": "+06S12",
+        "name": "Box 6",
+        "desc": "LHS PORTAL BEAM FORWARD STOP GATE REQUEST BOX",
+        "marker":{ "left": "44.5%", "top": "54.6%"}
+    },
+    {
+        "dataIndex": "+06S16",
+        "name": "Box 7",
+        "desc": "RHS PORTAL BEAM BACKWARD STOP GATE REQUEST BOX",
+        "marker":{ "left": "20.1%", "top": "86.9%"}
+    },
+    {
+        "dataIndex": "+06S17",
+        "name": "Box 8",
+        "desc": "RHS PORTAL BEAM FORWARD STOP GATE REQUEST BOX",
+        "marker":{ "left": "53.2%", "top": "65.9%"}
+    },
+    {
+        "dataIndex": "+23S11",
+        "name": "Box 9",
+        "desc": "SECONDARY TROLLEY PLATFORM GATE REQUEST BOX",
+        "marker":{ "left": "20.5%", "top": "75.1%"}
+    },
+    {
+        "dataIndex": "+05S13",
+        "name": "Box 12",
+        "desc": "MIDDLE GIRDER PLATFORM GATE REQUEST BOX",
+        "marker":{ "left": "47.9%", "top": "32.6%"}
+    },
+    {
+        "dataIndex": "+05S14",
+        "name": "Box 13",
+        "desc": "RHS GIRDER END FESTOON PLATFORM GATE REQUEST BOX",
+        "marker":{ "left": "6.3%", "top": "57.1%"}
+    },
+    {
+        "dataIndex": "+05S16",
+        "name": "Box 14",
+        "desc": "LHS GIRDER END BACKWARD STOP GATE REQUEST BOX",
+        "marker":{ "left": "3.4%", "top": "48.8%"}
+    },
+    {
+        "dataIndex": "+05S17",
+        "name": "Box 15",
+        "desc": "LHS MIDDLE GIRDER GATE REQUEST BOX",
+        "marker":{ "left": "46.4%", "top": "28.8%"}
+    },
+    {
+        "dataIndex": "+04S11",
+        "name": "Box 16",
+        "desc": "LHS BOOM TIP FORWARD STOP GATE REQUEST BOX ",
+        "marker":{ "left": "87.1%", "top": "11.4%"}
+    },
+    {
+        "dataIndex": "+13S11",
+        "name": "Box 17",
+        "desc": "PRIMARY TROLLEY PLATFORM GATE REQUEST BOX",
+        "marker":{ "left": "22.1%", "top": "44.4%"}
+    },
+    {
+        "dataIndex": "+05S11",
+        "name": "Box 18",
+        "desc": "LHS BOOM GIRDER JOINT GATE REQUEST BOX",
+        "marker":{ "left": "50.1%", "top": "29.9%"}
+    },
+    {
+        "dataIndex": "+05S12",
+        "name": "Box 19",
+        "desc": "RHS BOOM GIRDER JOINT GATE REQUEST BOX",
+        "marker":{ "left": "54.4%", "top": "33.9%"}
+    }
+]
